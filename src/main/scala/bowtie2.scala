@@ -3,7 +3,7 @@ package ohnosequencesBundles.statika
 import ohnosequences.statika._, bundles._, instructions._
 
 
-abstract class bowtie2(val version: String) extends Bundle() {
+abstract class Bowtie2(val version: String) extends Bundle() {
 
 	import ammonite.ops._
 
