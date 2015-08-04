@@ -1,7 +1,7 @@
 Nice.scalaProject
 
 name := "bowtie2"
-organization := "ohnosequencesBundles"
+organization := "ohnosequences-bundles"
 description := "A bundle for bowtie2 tool"
 
 publishBucketSuffix := "era7.com"
@@ -13,5 +13,5 @@ resolvers ++= Seq(
 
 libraryDependencies ++= Seq(
 	"ohnosequences" %% "statika" % "2.0.0-SNAPSHOT",
-  "ohnosequencesBundles" %% "samtools" % "0.1.0-SNAPSHOT"
+  "ohnosequences-bundles" %% "samtools" % "0.1.0-SNAPSHOT"
 )
