@@ -1,0 +1,2 @@
+- First release the bundle to install Bowtie2
+- Takes a zip file with the binaries from S3 and install Bowtie2
