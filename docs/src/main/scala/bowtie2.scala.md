@@ -2,7 +2,7 @@
 ```scala
 package ohnosequencesBundles.statika
 
-import ohnosequences.statika._, bundles._, instructions._
+import ohnosequences.statika._
 import java.io.File
 
 abstract class Bowtie2(val version: String, val samtools: Samtools)
